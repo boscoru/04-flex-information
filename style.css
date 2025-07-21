@@ -10,7 +10,8 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
-  margin: 0px auto 32px auto;
+  text-align: center;
+  margin-bottom: 32px;
 }
 
 /* do not edit this footer */
@@ -39,4 +40,6 @@ img {
 
 .card {
     display: flex;
+    justify-content: center;
+    gap: 52px;
 }
